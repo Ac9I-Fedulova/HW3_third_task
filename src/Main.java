@@ -10,7 +10,5 @@ public class Main {
 
         System.out.println();
         System.out.println((int) service.calculate(1_000_000, 36, 9.99) + " Руб.");
-
-
     }
 }
